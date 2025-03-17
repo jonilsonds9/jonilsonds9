@@ -21,8 +21,6 @@ Nos últimos meses, trabalhei com CI/CD, GitOps, migração de aplicações para
 
 🚀 Construindo soluções escaláveis, modernas e eficientes!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonilson-sousa-silva/)
-
 ---
 
 ### 🛠 Skills
